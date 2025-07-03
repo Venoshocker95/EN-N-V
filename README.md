@@ -24,6 +24,7 @@ available on the web quite challenging (my poor head @ - @ )
 RESOURCES USED:
 
 ° Wikipedia
+
 ° "The C Programming Language" by Brian W.Kernighan & Dennis M.Ritchie
 
 ° Numberphile Youtube Channel

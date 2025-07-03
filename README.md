@@ -14,7 +14,7 @@ The executable allows the user to:
 I've tried to replicate Enigma's pecualiar functions in C, which has been even with all the resources
 available on the web quite challenging (my poor head @ - @ )
 
-*After the user has enter something to be encrypted or decrypted, the program will ask the user for
+*After the user has entered something to be encrypted or decrypted, the program will ask the user for
   3 alphabetical values, those will be the starting rotor positions.
 
 ** The rotor positions are also saved along the encrypted note, although they appear as numerical
